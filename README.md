@@ -15,7 +15,7 @@ In this repository are the codes to implement the signal to picture GAN project.
 **OpenCV 4.1.1.26**
 
 **Keras 2.2.5**
----
+
 
 The order of execution of the files is first
 
