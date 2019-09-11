@@ -34,3 +34,5 @@ and to store the synthetic signals.
 *vectorizacion.py*
 
 Once the file has been stored it must be opened with Excel, and replace "." with "," .
+
+Copyright (C) [date] [copyright owner]
