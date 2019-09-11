@@ -35,4 +35,4 @@ and to store the synthetic signals.
 
 Once the file has been stored it must be opened with Excel, and replace "." with "," .
 
-Copyright (C) [date] [copyright owner]
+Copyright (C) 
