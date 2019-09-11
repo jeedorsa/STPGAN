@@ -1,5 +1,6 @@
 # STPGAN
 Signal to Picture GAN
+![Optional Text](../master/myFolder/stpgan.gif)
 
 In this repository are the codes to implement the signal to picture GAN project.
 The basic execution requirements are
